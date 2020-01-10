@@ -56,6 +56,9 @@ Want/need :  ingredients: {1 cup milk, 1/2 cup chocolate chips, etc}
 On the front end I have parsed them differently........everything but the ingredients are in this.mixins
 ingredients are in this.list if you were confused by what you were seeing :) 
 
+So, u want the text for all ingredients in one button as a list,
+Amount and name?
+
 
 
 
